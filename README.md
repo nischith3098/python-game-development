@@ -1,4 +1,4 @@
-# python-game-development
+# Python-game-development
 
 This projects mainly has 4 beginner level projects
 1. Quiz game
